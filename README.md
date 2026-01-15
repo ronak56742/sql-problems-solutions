@@ -39,7 +39,7 @@ leetcode-sql-solutions/
 ---
 
 ## ✅ Progress Tracker
-- Easy Problems Solved: 4
+- Easy Problems Solved: 5
 - Medium Problems Solved: 0
 - Hard Problems Solved: 0
 
